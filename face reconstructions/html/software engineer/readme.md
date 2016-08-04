@@ -2,6 +2,8 @@ Anonymous software engineer from National Centre for Nuclear Research (Poland)
 
 This is not me.
 
+See the [result](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/face%20reconstructions/html/software%20engineer/software_engineer.html) here.
+
 The pipeline was the following:
 
 ## ev3dev-mapping-ui
