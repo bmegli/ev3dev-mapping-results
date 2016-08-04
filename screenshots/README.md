@@ -8,7 +8,7 @@ Screenshots from various stages of ev3dev-mapping-ui development
 
 ![Alt text](laser_beams.png "Just the laser beams")
 
-![Alt text](steel_nature_ane_me.png "This is me - and some fruits")
+![Alt text](still_nature_and_me.png "This is me - and some fruits")
 
 ![Alt text](the_crime_scene.png "I am the victim")
 
