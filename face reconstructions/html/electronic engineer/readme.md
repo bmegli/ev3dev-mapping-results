@@ -2,7 +2,7 @@ Anonymous electronic engineer from National Centre for Nuclear Research (Poland)
 
 This is not me.
 
-See the [result](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/face%20reconstructions/html/electronic%20engineer/electronic_engineer.html) here.
+See the result [here](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/face%20reconstructions/html/electronic%20engineer/electronic_engineer.html).
 
 The pipeline was the following:
 
