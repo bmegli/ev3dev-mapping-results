@@ -1,7 +1,7 @@
 This is CSI like scene with my dead body lying on the floor, scanned by robot programmed for path repeating.
 This is almost raw result as seen in ev3dev-mapping-ui.
 
-See the result [here](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/face%20reconstructions/html/software%20engineer/software_engineer.html).
+See the result [here](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/point%20clouds/html/crime%20scene/crime_scene.html
 
 The pipeline was the following:
 
