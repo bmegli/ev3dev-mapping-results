@@ -1,6 +1,4 @@
-Anonymous medical physicist from National Centre for Nuclear Research (Poland)
-
-This is not me. 
+Anonymous medical physicist.
 
 This file has to be opened from software supporting u3d (e.g. Acrobat Reader)
 

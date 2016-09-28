@@ -1,6 +1,4 @@
-Anonymous software engineer from National Centre for Nuclear Research (Poland)
-
-This is not me. 
+Anonymous software engineer.
 
 This file has to be opened from software supporting u3d (e.g. Acrobat Reader)
 

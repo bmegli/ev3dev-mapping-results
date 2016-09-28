@@ -1,6 +1,4 @@
-Anonymous electronic engineer from National Centre for Nuclear Research (Poland)
-
-This is not me.
+Anonymous electronic engineer.
 
 See the result [here](http://htmlpreview.github.io/?https://github.com/bmegli/ev3dev-mapping-results/blob/master/face%20reconstructions/html/electronic%20engineer/electronic_engineer.html).
 
