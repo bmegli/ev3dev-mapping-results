@@ -4,7 +4,7 @@
   <Scene>
     <Viewpoint orientation='-0.17891 0.96316 0.20077 1.52241' position='1.44546 0.56506 0.13511'/>
     <Shape bboxCenter='0.526495 0.990452 -0.26578' bboxSize='5.00249 2.08094 6.57008'>
-      <ExternalGeometry url='"wrong-path-csi-body.src"'/>
+      <ExternalGeometry url='"csi-body.src"'/>
     </Shape>
   </Scene>
 </X3D>
