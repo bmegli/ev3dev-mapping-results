@@ -7,7 +7,7 @@
         <Appearance>
           <Material diffuseColor='0 1 0'/>
         </Appearance>
-        <ExternalGeometry url='src0.src'/>
+        <ExternalGeometry url='"/point clouds/html/x3dom issue/src0.src"'/>
       </Shape>
     </Transform>
     <Transform scale='0.2 0.2 0.2' translation='0 -4 0'>
@@ -15,14 +15,14 @@
         <Appearance>
           <Material diffuseColor='0 0 1' shininess='0.8' specularColor='0.3 0 0'/>
         </Appearance>
-        <ExternalGeometry url='src1.src'/>
+        <ExternalGeometry url='"/point clouds/html/x3dom issue/src1.src"'/>
       </Shape>
     </Transform>
     <Shape bboxCenter='0.00305498 1.11809 -0.12272' bboxSize='2.67383 1.92481 1.62647'>
       <Appearance>
         <Material diffuseColor='1 0 1' shininess='0.8' specularColor='0.3 0 0'/>
       </Appearance>
-      <ExternalGeometry url='src2.src'/>
+      <ExternalGeometry url='"/point clouds/html/x3dom issue/src2.src"'/>
     </Shape>
   </Scene>
 </X3D>
