@@ -14,4 +14,4 @@ Screenshots from various stages of ev3dev-mapping-ui development
 
 ![Alt text](large_scale_mapping.png "No place like work, ughm")
 
-<img src="room_segmentation.svg" width="100%">
+![Alt text](room_segmentation.png "R Prototyping - Feature Extraction")
