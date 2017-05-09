@@ -13,3 +13,5 @@ Screenshots from various stages of ev3dev-mapping-ui development
 ![Alt text](the_crime_scene.png "I am the victim")
 
 ![Alt text](large_scale_mapping.png "No place like work, ughm")
+
+![Alt text](room_segmentation.svg "hhm")
