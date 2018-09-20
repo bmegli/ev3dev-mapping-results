@@ -17,3 +17,6 @@ Screenshots from various stages of ev3dev-mapping-ui development
 ![Alt text](room_segmentation.png "R Prototyping - Feature Extraction #1")
 
 ![Alt text](corridor_segmentation.png "R Prototyping - Feature Extraction #2")
+
+![Alt text](offroad_android_non_EV3.jpg "Going off-road, android and non EV3")
+
